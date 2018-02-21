@@ -1,0 +1,25 @@
+{
+  "name": "overlay-drawer",
+  "version": "1.0.0",
+  "description": "Draw on an overlay",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/jpteasdale/overlay-drawer",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
